@@ -1,0 +1,11 @@
+,item_1,item_2,item_3,item_4,item_5,item_6
+transaction_1,6,5,2.0,3.0,4.0,1.0
+transaction_2,2,5,4.0,6.0,,
+transaction_3,2,6,,,,
+transaction_4,4,6,1.0,2.0,5.0,3.0
+transaction_5,2,4,6.0,3.0,5.0,1.0
+transaction_6,1,5,3.0,,,
+transaction_7,4,1,,,,
+transaction_8,3,6,1.0,4.0,,
+transaction_9,1,2,3.0,,,
+transaction_10,1,4,3.0,6.0,5.0,
